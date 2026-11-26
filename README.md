@@ -21,3 +21,6 @@ uv run scripts/ledger_audit.py tax-lots --csv ./lots.csv --output /tmp/lots.json
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
